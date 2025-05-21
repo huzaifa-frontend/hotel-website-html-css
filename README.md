@@ -55,7 +55,7 @@ No additional setup is required — it's a pure static website using HTML and CS
 ## ✨ Credits
 
 - Background images from Unsplash
-- Fonts from Google Fonts
+- Icons by Font Awesome
 - Designed & Developed by [Huzaifa Karim](https://github.com/huzaifakarim1)
 
 ## 📄 License
